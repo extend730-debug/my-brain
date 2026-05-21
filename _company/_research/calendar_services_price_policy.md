@@ -1,0 +1,1 @@
+Google Calendar와 Microsoft Outlook의 가격 정책 및 이용률 데이터 수집을 위한 크롤링 작업을 시작합니다. 분석 결과는 추후에 추가될 예정입니다.
